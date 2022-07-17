@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec41f0d7-1e39-4d26-9139-12e95ae7dfb2" name="Changes" comment="Add creeperlisteners">
+    <list default="true" id="ec41f0d7-1e39-4d26-9139-12e95ae7dfb2" name="Changes" comment="Init entity event">
       <change beforePath="$PROJECT_DIR$/src/main/java/me/sdkssh/creeper/events/CreeperListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/sdkssh/creeper/events/CreeperListeners.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -56,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658056201644</updated>
-      <workItem from="1658056205206" duration="265000" />
+      <workItem from="1658056205206" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <created>1658056338797</created>
@@ -79,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658056454069</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Init entity event">
+      <created>1658056489029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658056489029</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +112,7 @@
     <MESSAGE value="Init commit" />
     <MESSAGE value="Add creeperwtf main class" />
     <MESSAGE value="Add creeperlisteners" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add creeperlisteners" />
+    <MESSAGE value="Init entity event" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init entity event" />
   </component>
 </project>
